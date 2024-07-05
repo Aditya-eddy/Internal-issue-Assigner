@@ -7,8 +7,6 @@ Internal Issue Assigner was Proof of Concept work developed by me during my Inte
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -54,3 +52,8 @@ To start the Internal Issue Assigner, run the following command:
 ```sh
 npm start (For Backend)
 npm run start (For Client)
+```
+
+## Contact
+Aditya Sharma
+Aditya282003@gmail.com
